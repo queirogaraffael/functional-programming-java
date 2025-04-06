@@ -1,4 +1,4 @@
-package problems_solving.exercicios;
+package problems_solving.exercicios.refatorando.loops.streams;
 
 import java.util.ArrayList;
 import java.util.Arrays;

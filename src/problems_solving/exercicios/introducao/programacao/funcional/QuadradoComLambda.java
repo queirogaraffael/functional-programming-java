@@ -1,4 +1,4 @@
-package problems_solving.exercicios;
+package problems_solving.exercicios.introducao.programacao.funcional;
 
 import java.util.ArrayList;
 import java.util.Arrays;
