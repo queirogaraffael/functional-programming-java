@@ -8,7 +8,6 @@ import java.util.List;
 public class TransformandoStringsComStream {
     public static void main(String args[]) {
         List<String> alfabeto = new ArrayList<>(Arrays.asList("a", "b", "c", "d", "e", "f", "g", "h"));
-
         alfabeto.stream().map(String::toUpperCase).forEach(System.out::println);
     }
 }
