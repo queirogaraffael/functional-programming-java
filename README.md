@@ -1,8 +1,8 @@
-# functional-programming-java
+# Programação Funcional
 
 Repositório criado com o objetivo de treinar **expressões lambda** e **programação funcional** em **Java 8**. Durante os estudos, explorei os principais conceitos da programação funcional aplicados à linguagem Java, utilizando exemplos práticos e exercícios.
 
-## 🔍 Conteúdo Abordado
+## Conteúdo Abordado
 
 O projeto está organizado em pacotes, de acordo com os temas estudados:
 
@@ -16,7 +16,7 @@ O projeto está organizado em pacotes, de acordo com os temas estudados:
 - `refatorando.loops.streams`: Refatoração de loops utilizando streams.
 - `streams`: Exercícios variados com a API de Streams.
 
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Java 8**
 - **IntelliJ IDEA** (como IDE)
@@ -26,14 +26,14 @@ O projeto está organizado em pacotes, de acordo com os temas estudados:
 - **Optional**
 - **Interfaces Funcionais**
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 O código-fonte está localizado em:
 ```
 src/problems_solving.exercicios/
 ```
 
-## 🧠 Objetivo
+## Objetivo
 
 Este repositório foi parte da minha jornada de estudos para dominar conceitos da **programação funcional em Java**, com foco em:
 
@@ -41,7 +41,7 @@ Este repositório foi parte da minha jornada de estudos para dominar conceitos d
 - Escrever código mais declarativo e legível
 - Prática com API de Streams e novas funcionalidades do Java 8
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Clone o repositório:
 ```bash
@@ -52,4 +52,4 @@ git clone https://github.com/seu-usuario/functional-programming-java.git
 
 ---
 
-📚 *Esse projeto faz parte da minha evolução contínua como desenvolvedor Java. Feedbacks são bem-vindos!*
+*Esse projeto faz parte da minha evolução contínua como desenvolvedor Java. Feedbacks são bem-vindos!*
